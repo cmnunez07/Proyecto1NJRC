@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Proyecto1NJRC</string>
+    <string name="Logo">TODO</string>
+    <string name="color1">TODO</string>
+    <string name="teso">TESOEM</string>
+    <string name="trabajo">Procesadores CPU</string>
+    <string name="alumno">Ricardo César Núñez Jiménez</string>
+    <string name="grado">7S11</string>
+    <string name="algo">Aplicaciones Moviles</string>
+    <string name="logo1">TODO</string>
+    <string name="pppppp">TODO</string>
+    <string name="color2">TODO</string>
+    <string name="boton6">Acerca de</string>
+    <string name="boton1">Que es un Procesador</string>
+    <string name="boton2">Coolers</string>
+    <string name="boton3">Nomeclatura</string>
+    <string name="boton4">Intel</string>
+    <string name="boton5">AMD</string>
+    <string name="colorrr">TODO</string>
+    <string name="frm21">Procesador CPU</string>
+    <string name="procesadores1">El procesador de la computadora  En este artículo vamos a hablar sobre los procesadores utilizados en las computadoras, pero es bueno aclarar que también están presentes en otros dispositivos electrónicos, incluso en tu celular, y en muchos de los aparatos electrónicos utilizados actualmente.  El procesador es el cerebro del sistema, encargado de procesar toda la información. Básicamente, es el «cerebro» de la computadora. Prácticamente, todo pasa por él, ya que es el responsable de ejecutar todas las instrucciones existentes. Mientras más rápido vaya el procesador, más rápido serán ejecutadas las instrucciones</string>
+    <string name="co">Coolers</string>
+    <string name="cooler">Generalmente los procesadores, debido a su estructura, y a la velocidad, calientan, y para evitar ese sobrecalentamiento, se usan los Coolers.  En las computadoras actuales la refrigeración de los procesadores es realizada a través de un disipador de calor, fabricado en aluminio o cobre, con un pequeño ventilador sobre el y un conducto de aire que extrae el aire caliente del gabinete.</string>
+    <string name="nomeclatura">Nomeclatura</string>
+    <string name="nome">Las dos firmas más importantes, fabricantes de procesadores, son Intel y AMD. Cada una de esas empresas adopta una determinada nomenclatura para otorgarle información al consumidor a partir del nombre del procesador. Aparentemente la nomenclatura de esos procesadores es un tanto confusa, pero con un poco de atención podemos identificar muchas de sus características</string>
+    <string name="intelll">Intel</string>
+    <string name="intel1">En el caso de la prestigiosa compañía Intel, todo procesador Quad Core (que posee 4 núcleos) comienza con la letra Q, de Quad. Por ejemplo: Q9550, Q8400s, Q9300.  Todo procesador Dual Core (que posee 2 núcleos) comienza con la letra Y. Por ejemplo: Y7500, Y6750, Y4700.</string>
+    <string name="celeron">Si el procesador que vas a comprar en un Celeron, significa que este es un procesador de bajo desempeño y bajo costo, estaríamos hablando de una versión que carece de un buen procesador. Esos Celerones normalmente forman parte de las computadoras más económicas.</string>
+    <string name="ac">Acerca de</string>
+    <string name="al">Núñez Jiménez Ricardo César     7S11    Aplicaciones Moviles     Primer Parcial     ISC</string>
+    <string name="todojghhgh">TODO</string>
+    <string name="regreso6">Volver</string>
+    <string name="hola">Volver</string>
+</resources>
